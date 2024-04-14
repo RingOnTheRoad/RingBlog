@@ -1,0 +1,37 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="59" name="Java" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="ring-blob-back-end" />
+          <option value="ring-blob-back-end" />
+          <option value="ring-blob-back-end" />
+          <option value="ring-blob-back-end" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="ch.qos.logback:logback-classic:1.2.11" />
+          <option value="ch.qos.logback:logback-core:1.2.11" />
+          <option value="org.apache.tomcat.embed:tomcat-embed-core:9.0.68" />
+          <option value="org.springframework.boot:spring-boot-autoconfigure:2.6.13" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="不可利用" />
+          <option value="不可利用" />
+          <option value="不可利用" />
+          <option value="不可利用" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

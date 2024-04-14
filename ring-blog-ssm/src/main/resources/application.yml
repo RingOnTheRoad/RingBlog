@@ -1,0 +1,18 @@
+server:
+  port: 80
+
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: root
+    url: jdbc:mysql://localhost:3306/ringblob?serverTimezone=Asia/Shanghai
+
+mybatis-plus:
+  global-config:
+    db-config:
+      # 雪花算法自增id
+      id-type: assign_id
+      # 数据库表前缀
+      table-prefix: r_
