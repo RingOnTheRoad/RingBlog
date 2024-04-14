@@ -133,13 +133,13 @@ vue:pnpm i/pnpm dev
 
 #### 预览
 
-![login](.\imgs\login.png)
+![login](https://github.com/RingOnTheRoad/RingBlog/blob/main/imgs/cate.png)
 
-![cate](.\imgs\cate.png)
+![cate](https://github.com/RingOnTheRoad/RingBlog/blob/main/imgs/cate.png)
 
-![mag](.\imgs\mag.png)
+![mag](https://github.com/RingOnTheRoad/RingBlog/blob/main/imgs/mag.png)
 
-![my](.\imgs\my.png)
+![my](https://github.com/RingOnTheRoad/RingBlog/blob/main/imgs/my.png)
 
 ### 版本控制
 
