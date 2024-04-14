@@ -133,7 +133,7 @@ vue:pnpm i/pnpm dev
 
 #### 预览
 
-![login](https://github.com/RingOnTheRoad/RingBlog/blob/main/imgs/cate.png)
+![login](https://github.com/RingOnTheRoad/RingBlog/blob/main/imgs/login.png)
 
 ![cate](https://github.com/RingOnTheRoad/RingBlog/blob/main/imgs/cate.png)
 
@@ -174,7 +174,7 @@ bilibili:风带铃音
 [issues-shield]: https://img.shields.io/github/issues/RingOnTheRoad/RingBlog.svg?style=flat-square
 [issues-url]: https://img.shields.io/github/issues/RingOnTheRoad/RingBlog.svg
 [license-shield]: https://img.shields.io/github/license/RingOnTheRoad/RingBlog.svg?style=flat-square
-[license-url]: https://github.com/RingOnTheRoad/RingBlog/blob/main/LICENSE.txt
+[license-url]: https://github.com/RingOnTheRoad/RingBlog/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/RingOnTheRoad
 
