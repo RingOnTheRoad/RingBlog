@@ -153,7 +153,7 @@ bilibili:风带铃音
 
 ### 版权说明
 
-该项目签署了MIT授权许可，详情请参阅 [LICENSE.txt](https://github.com/RingOnTheRoad/RingBlob/blog/main/LICENSE.txt)
+该项目签署了MIT授权许可，详情请参阅 [LICENSE.txt](https://github.com/RingOnTheRoad/RingBlog/blob/main/LICENSE.txt)
 
 ### 鸣谢
 
@@ -173,7 +173,7 @@ bilibili:风带铃音
 [stars-url]: https://github.com/RingOnTheRoad/RingBlog/stargazers
 [issues-shield]: https://img.shields.io/github/issues/RingOnTheRoad/RingBlog.svg?style=flat-square
 [issues-url]: https://img.shields.io/github/issues/RingOnTheRoad/RingBlog.svg
-[license-shield]: https://img.shields.io/github/license/RingOnTheRoad/RingBlob.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/RingOnTheRoad/RingBlog.svg?style=flat-square
 [license-url]: https://github.com/RingOnTheRoad/RingBlog/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/RingOnTheRoad
